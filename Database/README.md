@@ -1,7 +1,7 @@
 Templates and other statistical data for bank cheques.
 
 Descriptions:
-	*.tif		:	Logo template for respective bank cheque.
+	*.tif		:	Logo template for respective bank cheque./n
 	*a.tif		:	Amount in words template for respective bank cheque.
 	*d.tif		:	Amount in digits template for respective bank cheque.
 	*n.tif		:	Name template for respective bank cheque.
