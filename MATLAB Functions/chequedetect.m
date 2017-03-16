@@ -7,7 +7,7 @@ function [N,D,A] =  chequedetect (in)
 		a=strcat(a,a1);
 		T=imread(a);
 		t=logo(T,in);
-		d=decade(t,x);
+		d=decile(t,x);
 		s(1)=0;s(2)=0;s(3)=0;
 		total=0;
 		for i = 1:3
